@@ -4,4 +4,4 @@ An application used to calculate the light output required for a correct light i
 Usefull links.<br>
 [Light Output Calculation Executable (shinyapps.io)](https://perati.shinyapps.io/appLight)<br>
 [Supporting Documentation (github/perati)](https://github.com/perati/DDP-Light-Output-Application)<br>
-[Application Presentation(Rpres/Rpubs/perati)](http://rpubs.com/cperati/Light_Output_Calculation)
+[Application Presentation (Rpubs/perati)](http://rpubs.com/cperati/Light_Output_Calculation)
