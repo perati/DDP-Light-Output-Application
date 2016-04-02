@@ -19,7 +19,7 @@ The input requested will be used to calculate the light intensity required for t
 **Notes**
 Note that this application is made for the scope of this project which is to illustrate the use of ***shiny***. It uses a simplified version of the process to be followed for the calculation of the light intensity requirements. For this reason the results can only be considered as an approximation of the correct value.<br><br>
 
-The theoretical background used for this applications is taken from the book **Special electrical installations** prepared for the Ministry of Education of Greece. It can be found at <http://www.ebooks4greeks.gr/2011.Download_free-ebooks/kathighths/Eidikes_Hlektrikes_Egkatastaseis_A__Downloaded_f_eBooks4Greeks.gr.pdf>.
+The theoretical background used for this applications is taken from the book **Special electrical installations** prepared for the Ministry of Education of Greece. It can be found at [Eidikes_Hlektrikes_Egkatastaseis](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/kathighths/Eidikes_Hlektrikes_Egkatastaseis_A__Downloaded_f_eBooks4Greeks.gr.pdf).
 
 
 
